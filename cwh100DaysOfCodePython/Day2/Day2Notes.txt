@@ -1,0 +1,8 @@
+Nothing Much on Day 2 from code side, but harry give intro about 5 projects and share code. We don't need to
+worry about this code, we will learn about this projects in upcoming videos.
+
+1. Jarvis Virtual Assistance
+2. Love Calculator
+3. Face Recognition
+4. Flappy Bird Game -> working
+5. Snake Game -> working
