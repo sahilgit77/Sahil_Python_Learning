@@ -1,6 +1,8 @@
-Nothing Much on Day 2 from code side, but harry give intro about 5 projects and share code. We don't need to
-worry about this code, we will learn about this projects in upcoming videos.
+Day 2 - Harry's Python Success Story
 
+Nothing Much on Day 2 from code side, but harry give intro about 5 projects and share code. We don't need to
+worry about this code, we will learn about these projects in upcoming videos.
+Projects:-
 1. Jarvis Virtual Assistance
 2. Love Calculator
 3. Face Recognition
