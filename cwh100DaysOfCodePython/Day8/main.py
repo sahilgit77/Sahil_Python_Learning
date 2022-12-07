@@ -1,3 +1,6 @@
+# Exercise 1 - Create a Calculator Solution
+# Solution
+
 print(15+7) # + -> Addition
 print(15-7) # - -> Subtraction
 print(15*7) # * -> Multiplication
