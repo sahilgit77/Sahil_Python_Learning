@@ -1,0 +1,12 @@
+num1 = input("Enter number 1: ")
+num2 = input("Enter number 2: ")
+num1 = int(num1)
+num2 = int(num2)
+
+print("Addition: ", num1 + num2)
+print("Subtraction: ", num1 - num2)
+print("Multiplication: ", num1 * num2)
+print("Division: ", num1/num2)
+print("Floor Division: ", num1//num2)
+print("Remainder: ", num1%num2)
+print("Exponential: ", num1 ** num2)
