@@ -1,10 +1,10 @@
-Day 10 - Taking User Input in python
+Day 10 - Taking User Input in python:-
 In python, we can take user input directly by using input() function.This input function gives a return value as string/character hence we have to pass that into a variable
 
 * Syntax:
 variable=input()
 
--> But input function returns the value as string. Hence we have to typecast them whenever required to another datatype.
+-> But input function returns the value as string. Hence, we have to typecast them whenever required to another datatype.
 
 * Example:
 variable=int(input())
@@ -17,7 +17,7 @@ print(a)
 
 -> Output:
 Enter the name: Harry
-Harry
+-Harry
 
 
 #Do exercise - 1 using input()

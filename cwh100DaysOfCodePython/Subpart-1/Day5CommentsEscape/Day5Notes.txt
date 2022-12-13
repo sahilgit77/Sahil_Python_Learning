@@ -8,7 +8,7 @@ A comment is a part of the coding file that the programmer does not want to exec
 To write a comment just add a ‘#’ at the start of the line.
 
 * Multi-Line Comments:-
--> To write multi-line comments you can use ‘#’ at each line or you can use the multiline string.
+-> To write multi-line comments you can use ‘#’ at each line, or you can use the multiline string.
 -> We can write multiline comment b/w two triple single/double quotes
 
 * Escape Sequence Characters:-
